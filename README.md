@@ -1,5 +1,5 @@
-#Breast Cancer Prediction using machine learning
-Breast Cancer Prediction using Machine Learning
+Breast Cancer Prediction using machine learning
+
 
 I am Moguloju Sai, Data Science Engineer.
 
